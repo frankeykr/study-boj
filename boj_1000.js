@@ -1,3 +1,6 @@
+// 참고 URL 추가
+// https://tesseractjh.tistory.com/39
+
 // FileSystem의 약자인 fs 모듈은 파일을 처리하는 모듈
 // 직접 입력파일을 읽어와서 처리한다
 var fs = require('fs');
