@@ -17,4 +17,4 @@ var a = parseInt(input[0]);
 var b = parseInt(input[1]);
 
 // a-b값을 출력한다
-console.log(a+b);
+console.log(a-b);
