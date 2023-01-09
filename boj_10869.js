@@ -18,10 +18,13 @@ var b = parseInt(input[1]);
 
 // a+b값을 출력한다
 console.log(a+b);
+
 // a-b값을 출력한다
 console.log(a-b);
+
 // a*b값을 출력한다
 console.log(a*b);
+
 // a/b값을 출력한다
 // 여기서 한번 틀렸다
 // 이대로 하면 소수점 그대로 제출되기때문에
@@ -29,5 +32,6 @@ console.log(a*b);
 // 참고 URL
 // https://wdevp.tistory.com/59
 console.log(Math.floor(a/b));
+
 // a*b값을 출력한다
 console.log(a%b);
