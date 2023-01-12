@@ -8,3 +8,6 @@ https://www.acmicpc.net/
 
 # 참고 링크
 https://tesseractjh.tistory.com/39
+
+# 디버깅 참고
+https://kk3june.tistory.com/m/49
