@@ -1,6 +1,3 @@
-// 문제풀이 참고 링크
-// https://overcome-the-limits.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%B1%EC%A4%80-3003-%ED%82%B9-%ED%80%B8-%EB%A3%A9-%EB%B9%84%EC%88%8D-%EB%82%98%EC%9D%B4%ED%8A%B8-%ED%8F%B0-with-nodejs
-
 // FileSystem의 약자인 fs 모듈은 파일을 처리하는 모듈
 // 직접 입력파일을 읽어와서 처리한다
 const fs = require('fs');
