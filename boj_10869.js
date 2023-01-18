@@ -29,6 +29,7 @@ console.log(a*b);
 // 여기서 한번 틀렸다
 // 이대로 하면 소수점 그대로 제출되기때문에
 // Math.floor()를 이용해서 소수점을 버릴 필요가 있다
+
 // 참고 URL
 // https://wdevp.tistory.com/59
 console.log(Math.floor(a/b));
