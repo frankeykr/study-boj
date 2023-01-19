@@ -11,7 +11,7 @@ const fs = require('fs');
 
 // 현재 배열에 있는 값들이 문자열로 되어있기 때문에
 // map(Number)함수를 사용해서 루프하면서 숫자로 변환
-const input = fs.readFileSync('example.txt').toString().trim().split(' ').map(Number);
+const input = fs.readFileSync('/dev/stdin').toString().trim().split(' ').map(Number);
 
 // 체스에서 필요한 말의 개수를 변수에 입력
 const chess = [1, 1, 2, 2, 2, 8];
